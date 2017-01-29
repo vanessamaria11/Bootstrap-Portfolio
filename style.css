@@ -1,0 +1,104 @@
+#headername{
+	text-align: center;
+	font-family: Georgia;
+	color:white;
+	float: left;
+	border-style: solid #eee;
+	background-color: #4aaaa5;
+	margin-left: 40px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 30px;
+	height: 60px;
+	width: 200px;
+	font-size:30px;
+}
+header {
+	background-color: #ffffff;
+	border-top-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style: solid;
+	border-bottom-color: gray;
+	border-bottom-width:2px;
+	height: 90px;
+	float:top;
+	margin-top: 0px;
+}
+#nametitle{
+	text-align: center;
+	font-family: Georgia;
+	color:white;
+	float: left;
+	border-style: solid #eee;
+	background-color: #4aaaa5;
+	margin-left: 40px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 30px;
+	height: 60px;
+	width: 200px;
+	font-size:30px;
+}
+
+#one, #Two, #Three, #Four, #Five, #Six{
+	width:150px;
+	height:5px;
+	z-index: 1;
+	background-color:4aaaa5;
+	border-style:hidden;
+	color:white;
+	margin:0px;
+	position:relative;
+	text-align: center;
+	top:-30px;
+}
+
+footer{
+	background-color: #666666;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+	border-bottom-style: hidden;
+	border-right-style: hidden;
+	border-left-style: hidden;
+	padding-top: 40px;
+	padding-bottom:40px;
+	float: bottom;
+	margin-top: 100px ;
+	border-top-width: 10px;
+	font-size: 15px;
+	margin-bottom:-40px;
+}
+#footer{
+	text-align: center;
+}
+
+/*#connecticons{
+	padding-left: 12px;
+	padding-bottom: 5px;
+	padding-top: 3px;
+	background-color: #ffffff;
+	height: 205px;
+	margin-right: 40px;
+	margin-left:12px;
+	margin-top:45px;
+	margin-bottom: 35px;
+	font: Arial;
+	text-align: left;
+}*/
+
+body{
+	background-image:url(images/pink_rice.png);
+}
+
+#Aboutme{
+	padding-left: 0px;
+	padding-bottom: 10px;
+	padding-top: 0px;
+	background-color: #ffffff;
+	margin-left: 40px;
+	margin-top: 45px;
+	margin-right: 10px;
+	font: Arial;
+	font-color: teal;
+	text-align: center;
+}
